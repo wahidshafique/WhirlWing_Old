@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: a1f3e702cde3df7458249e5218e05300
+timeCreated: 1449086403
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: North America Animals_0
+    21300002: North America Animals_1
+    21300004: North America Animals_2
+    21300006: North America Animals_3
+    21300008: North America Animals_4
+    21300010: North America Animals_5
+    21300012: North America Animals_6
+    21300014: North America Animals_7
+    21300016: North America Animals_8
+    21300018: North America Animals_9
+    21300020: North America Animals_10
+    21300022: North America Animals_11
+    21300024: North America Animals_12
+    21300026: North America Animals_13
+    21300028: North America Animals_14
+    21300030: North America Animals_15
+    21300032: North America Animals_16
+    21300034: North America Animals_17
+    21300036: North America Animals_18
+    21300038: North America Animals_19
+    21300040: North America Animals_20
+    21300042: North America Animals_21
+    21300044: North America Animals_22
+    21300046: North America Animals_23
+    21300048: North America Animals_24
+    21300050: North America Animals_25
+    21300052: North America Animals_26
+    21300054: North America Animals_27
+    21300056: North America Animals_28
+    21300058: North America Animals_29
+    21300060: North America Animals_30
+    21300062: North America Animals_31
+    21300064: North America Animals_32
+    21300066: North America Animals_33
+    21300068: North America Animals_34
+    21300070: North America Animals_35
+    21300072: North America Animals_36
+    21300074: North America Animals_37
+    21300076: North America Animals_38
+    21300078: North America Animals_39
+    21300080: North America Animals_40
+    21300082: North America Animals_41
+    21300084: North America Animals_42
+    21300086: North America Animals_43
+    21300088: North America Animals_44
+    21300090: North America Animals_45
+    21300092: North America Animals_46
+    21300094: North America Animals_47
+    21300096: North America Animals_48
+    21300098: North America Animals_49
+    21300100: North America Animals_50
+    21300102: North America Animals_51
+    21300104: North America Animals_52
+    21300106: North America Animals_53
+    21300108: North America Animals_54
+    21300110: North America Animals_55
+    21300112: North America Animals_56
+    21300114: North America Animals_57
+    21300116: North America Animals_58
+    21300118: North America Animals_59
+    21300120: North America Animals_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: North America Animals_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5465
+        width: 1075
+        height: 1874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_1
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 5465
+        width: 1210
+        height: 1524
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_2
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 5297
+        width: 1232
+        height: 1925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_3
+      rect:
+        serializedVersion: 2
+        x: 4605
+        y: 5297
+        width: 1844
+        height: 1925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_4
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 5297
+        width: 1240
+        height: 1925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_5
+      rect:
+        serializedVersion: 2
+        x: 8761
+        y: 5079
+        width: 1429
+        height: 2180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_6
+      rect:
+        serializedVersion: 2
+        x: 10387
+        y: 5079
+        width: 1750
+        height: 2180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_7
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_8
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 4831
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_9
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_10
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 4823
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_11
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_12
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 4823
+        width: 241
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_13
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 4823
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_14
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 4823
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_15
+      rect:
+        serializedVersion: 2
+        x: 6479
+        y: 4823
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_16
+      rect:
+        serializedVersion: 2
+        x: 9257
+        y: 4663
+        width: 236
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_17
+      rect:
+        serializedVersion: 2
+        x: 9512
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_18
+      rect:
+        serializedVersion: 2
+        x: 9774
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_19
+      rect:
+        serializedVersion: 2
+        x: 10037
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_20
+      rect:
+        serializedVersion: 2
+        x: 10299
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_21
+      rect:
+        serializedVersion: 2
+        x: 10562
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_22
+      rect:
+        serializedVersion: 2
+        x: 10824
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_23
+      rect:
+        serializedVersion: 2
+        x: 11087
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_24
+      rect:
+        serializedVersion: 2
+        x: 11349
+        y: 4656
+        width: 248
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_25
+      rect:
+        serializedVersion: 2
+        x: 12538
+        y: 3022
+        width: 1684
+        height: 1955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1783
+        width: 1268
+        height: 1582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_27
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 1783
+        width: 1851
+        height: 1582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_28
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 1783
+        width: 1239
+        height: 1582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_29
+      rect:
+        serializedVersion: 2
+        x: 6304
+        y: 1863
+        width: 1604
+        height: 2049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_30
+      rect:
+        serializedVersion: 2
+        x: 9585
+        y: 1790
+        width: 1451
+        height: 1947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_31
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_32
+      rect:
+        serializedVersion: 2
+        x: 12895
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_33
+      rect:
+        serializedVersion: 2
+        x: 13165
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_34
+      rect:
+        serializedVersion: 2
+        x: 13427
+        y: 2432
+        width: 248
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_35
+      rect:
+        serializedVersion: 2
+        x: 13690
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_36
+      rect:
+        serializedVersion: 2
+        x: 13960
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_37
+      rect:
+        serializedVersion: 2
+        x: 14222
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_38
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1353
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_39
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1345
+        width: 240
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_40
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1345
+        width: 240
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_41
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1345
+        width: 248
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_42
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1345
+        width: 247
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_43
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1345
+        width: 241
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_44
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1345
+        width: 248
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_45
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1345
+        width: 241
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_46
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_47
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_48
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 1389
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_49
+      rect:
+        serializedVersion: 2
+        x: 6974
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_50
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_51
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 1389
+        width: 248
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_52
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 1389
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_53
+      rect:
+        serializedVersion: 2
+        x: 9293
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_54
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_55
+      rect:
+        serializedVersion: 2
+        x: 9840
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_56
+      rect:
+        serializedVersion: 2
+        x: 10102
+        y: 1389
+        width: 248
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_57
+      rect:
+        serializedVersion: 2
+        x: 10365
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_58
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_59
+      rect:
+        serializedVersion: 2
+        x: 10897
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: North America Animals_60
+      rect:
+        serializedVersion: 2
+        x: 11167
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

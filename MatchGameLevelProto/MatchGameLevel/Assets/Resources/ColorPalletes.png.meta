@@ -1,0 +1,597 @@
+fileFormatVersion: 2
+guid: f22f6ee299e8225488d4f1caa871a281
+timeCreated: 1453660607
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: North America Animals_0
+    21300002: North America Animals_1
+    21300004: North America Animals_2
+    21300006: North America Animals_3
+    21300008: North America Animals_4
+    21300010: North America Animals_5
+    21300012: North America Animals_6
+    21300014: North America Animals_25
+    21300016: North America Animals_26
+    21300018: North America Animals_27
+    21300020: North America Animals_28
+    21300022: North America Animals_29
+    21300024: North America Animals_30
+    21300026: ColorPalletes_7
+    21300028: ColorPalletes_8
+    21300030: ColorPalletes_9
+    21300032: ColorPalletes_10
+    21300034: ColorPalletes_11
+    21300036: ColorPalletes_12
+    21300038: ColorPalletes_13
+    21300040: ColorPalletes_14
+    21300042: ColorPalletes_15
+    21300044: ColorPalletes_16
+    21300046: ColorPalletes_17
+    21300048: ColorPalletes_18
+    21300050: ColorPalletes_19
+    21300052: ColorPalletes_20
+    21300054: ColorPalletes_21
+    21300056: ColorPalletes_22
+    21300058: ColorPalletes_23
+    21300060: ColorPalletes_24
+    21300062: ColorPalletes_31
+    21300064: ColorPalletes_32
+    21300066: ColorPalletes_33
+    21300068: ColorPalletes_34
+    21300070: ColorPalletes_35
+    21300072: ColorPalletes_36
+    21300074: ColorPalletes_37
+    21300076: ColorPalletes_38
+    21300078: ColorPalletes_39
+    21300080: ColorPalletes_40
+    21300082: ColorPalletes_41
+    21300084: ColorPalletes_42
+    21300086: ColorPalletes_43
+    21300088: ColorPalletes_44
+    21300090: ColorPalletes_45
+    21300092: ColorPalletes_46
+    21300094: ColorPalletes_47
+    21300096: ColorPalletes_48
+    21300098: ColorPalletes_49
+    21300100: ColorPalletes_50
+    21300102: ColorPalletes_51
+    21300104: ColorPalletes_52
+    21300106: ColorPalletes_53
+    21300108: ColorPalletes_54
+    21300110: ColorPalletes_55
+    21300112: ColorPalletes_56
+    21300114: ColorPalletes_57
+    21300116: ColorPalletes_58
+    21300118: ColorPalletes_59
+    21300120: ColorPalletes_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: ColorPalletes_7
+      rect:
+        serializedVersion: 2
+        x: 4386
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_8
+      rect:
+        serializedVersion: 2
+        x: 4648
+        y: 4831
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_9
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_10
+      rect:
+        serializedVersion: 2
+        x: 5166
+        y: 4823
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_11
+      rect:
+        serializedVersion: 2
+        x: 5436
+        y: 4823
+        width: 240
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_12
+      rect:
+        serializedVersion: 2
+        x: 5698
+        y: 4823
+        width: 241
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_13
+      rect:
+        serializedVersion: 2
+        x: 5955
+        y: 4823
+        width: 246
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_14
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 4823
+        width: 248
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_15
+      rect:
+        serializedVersion: 2
+        x: 6479
+        y: 4823
+        width: 247
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_16
+      rect:
+        serializedVersion: 2
+        x: 9257
+        y: 4663
+        width: 236
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_17
+      rect:
+        serializedVersion: 2
+        x: 9512
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_18
+      rect:
+        serializedVersion: 2
+        x: 9774
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_19
+      rect:
+        serializedVersion: 2
+        x: 10037
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_20
+      rect:
+        serializedVersion: 2
+        x: 10299
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_21
+      rect:
+        serializedVersion: 2
+        x: 10562
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_22
+      rect:
+        serializedVersion: 2
+        x: 10824
+        y: 4656
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_23
+      rect:
+        serializedVersion: 2
+        x: 11087
+        y: 4656
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_24
+      rect:
+        serializedVersion: 2
+        x: 11349
+        y: 4656
+        width: 248
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_31
+      rect:
+        serializedVersion: 2
+        x: 12618
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_32
+      rect:
+        serializedVersion: 2
+        x: 12895
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_33
+      rect:
+        serializedVersion: 2
+        x: 13165
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_34
+      rect:
+        serializedVersion: 2
+        x: 13427
+        y: 2432
+        width: 248
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_35
+      rect:
+        serializedVersion: 2
+        x: 13690
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_36
+      rect:
+        serializedVersion: 2
+        x: 13960
+        y: 2432
+        width: 240
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_37
+      rect:
+        serializedVersion: 2
+        x: 14222
+        y: 2432
+        width: 241
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_38
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 1353
+        width: 241
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_39
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 1345
+        width: 240
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_40
+      rect:
+        serializedVersion: 2
+        x: 2053
+        y: 1345
+        width: 240
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_41
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1345
+        width: 248
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_42
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 1345
+        width: 247
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_43
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 1345
+        width: 241
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_44
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 1345
+        width: 248
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_45
+      rect:
+        serializedVersion: 2
+        x: 3365
+        y: 1345
+        width: 241
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_46
+      rect:
+        serializedVersion: 2
+        x: 6165
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_47
+      rect:
+        serializedVersion: 2
+        x: 6442
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_48
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 1389
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_49
+      rect:
+        serializedVersion: 2
+        x: 6974
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_50
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_51
+      rect:
+        serializedVersion: 2
+        x: 7514
+        y: 1389
+        width: 248
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_52
+      rect:
+        serializedVersion: 2
+        x: 7784
+        y: 1389
+        width: 247
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_53
+      rect:
+        serializedVersion: 2
+        x: 9293
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_54
+      rect:
+        serializedVersion: 2
+        x: 9570
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_55
+      rect:
+        serializedVersion: 2
+        x: 9840
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_56
+      rect:
+        serializedVersion: 2
+        x: 10102
+        y: 1389
+        width: 248
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_57
+      rect:
+        serializedVersion: 2
+        x: 10365
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_58
+      rect:
+        serializedVersion: 2
+        x: 10635
+        y: 1389
+        width: 240
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_59
+      rect:
+        serializedVersion: 2
+        x: 10897
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ColorPalletes_60
+      rect:
+        serializedVersion: 2
+        x: 11167
+        y: 1389
+        width: 241
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
